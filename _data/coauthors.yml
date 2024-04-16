@@ -32,3 +32,43 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Qian":
+  - firstname: ["Xun"]
+    url: https://www.xun-qian.com/
+
+"He":
+  - firstname: ["Fengming"]
+    url: https://www.fengminghe.com/
+
+"Zhu":
+  - firstname: ["Zhengzhe"]
+    url: https://www.zhengzhe-zhu.com/
+
+"Jain":
+  - firstname: ["Rahul"]
+    url: https://www.jain-rahul.com/
+
+"Ramani":
+  - firstname: ["Karthik"]
+    url: https://scholar.google.com/citations?user=AUPTVF0AAAAJ&hl=en
+
+"Hu":
+  - firstname: ["Xiyun"]
+    url: https://scholar.google.com/citations?user=ES8F-OMAAAAJ&hl=en
+
+"Doh":
+  - firstname: ["Hyungjun"]
+    url: https://www.linkedin.com/in/hyungjun-doh99/
+
+"Unmesh":
+  - firstname: ["Asim"]
+    url: https://scholar.google.co.in/citations?user=Z8VMA0wAAAAJ&hl=en
+
+"Chidambaram"：
+  - firstname: ["Subramanian"]
+    url: https://schidamb.github.io/
+
+"Chi"：
+  - firstname: ["Hyunggun"]
+    url: https://hyung-gun.me/
