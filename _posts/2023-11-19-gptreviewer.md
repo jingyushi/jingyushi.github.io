@@ -4,7 +4,7 @@ title: ChatGPT as a Reviewer
 date: 2023-10-30 16:40:16
 description: ChatGPT as a Reviewer
 tags: writing
-categories: personal
+categories: academic
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -12,7 +12,7 @@ categories: personal
     </div>
 </div>
 <div class="caption">
-    Wingman (Facai) and Yuumi under my bed.
+    Yuumi on my car.
 </div>
 
 A very useful tips of ChatGPT 4: We can use it as an external reviewers for our own papers.
