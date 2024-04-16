@@ -6,20 +6,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>555 Mechanical Engieering Building, Room 3164</p>
+    <p>123 585 Purdue Mall Dr.</p>
+    <p>West Lafayette, IN, 47906</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in human-AI interaction and its applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. Currently, I am studying the effects and uses of the attention mechanism in context-aware AR.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
