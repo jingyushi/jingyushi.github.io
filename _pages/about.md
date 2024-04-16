@@ -9,8 +9,8 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Mechanical Engieering Building, Room 3164</p>
-    <p>123 585 Purdue Mall Dr.</p>
+    <p>Mechanical Engieering Building, Room 3164</p>
+    <p>585 Purdue Mall Dr.</p>
     <p>West Lafayette, IN, 47906</p>
 
 news: true # includes a list of news items

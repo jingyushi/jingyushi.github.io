@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Proclaimation 10043 And I
+title: On Traveling
 date: 2023-10-28 16:40:16
-description: What Proclaimation 10043 has brought to me.
+description: Some personal feelings about traveling.
 tags: writing
 categories: personal
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Proclaimation 10043 And I
+title: My Taste in Human-AI Interaction
 date: 2023-10-30 16:40:16
-description: What Proclaimation 10043 has brought to me.
+description: What I see and not see from the current research in human-AI interaction.
 tags: writing
 categories: personal
 ---

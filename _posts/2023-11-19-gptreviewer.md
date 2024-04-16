@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Proclaimation 10043 And I
+title: ChatGPT as a Reviewer
 date: 2023-10-30 16:40:16
-description: What Proclaimation 10043 has brought to me.
+description: ChatGPT as a Reviewer
 tags: writing
 categories: personal
 ---
