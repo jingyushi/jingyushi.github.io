@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by [RAL](https://www.ieee-ras.org/publications/ra-l)
+One paper on [object-object-interaction](https://ieeexplore.ieee.org/abstract/document/10316574) is accepted by [RAL](https://www.ieee-ras.org/publications/ra-l).
