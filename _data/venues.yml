@@ -4,3 +4,17 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+  color: "#00369f"
+
+"UIST 2023":
+  url: https://uist.acm.org/2023
+  color: "#00369f"
+
+"CHI 2024":
+  url: https://chi2024.acm.org/
+  color: "#00369f"
+
+"CHI 2023":
+  url: https://chi2023.acm.org/
+  color: "#00369f"
+
