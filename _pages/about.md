@@ -22,3 +22,5 @@ I am a Ph.D. student in Electrical and Computer Engineering from [Purdue Univers
 
 My research interests lie in human-AI interaction and its applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. Currently, I am studying the effects and uses of the attention mechanism in context-aware AR.
 
+
+[**Google Scholar**](https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en) / [**Resume**](/assets/pdf/JS_resume.pdf) / [**LinkedIn**](https://www.linkedin.com/in/jingyushi97/)
