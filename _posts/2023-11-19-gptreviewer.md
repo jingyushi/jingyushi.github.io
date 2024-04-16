@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ChatGPT as a Reviewer
-date: 2023-10-30 16:40:16
+date: 2023-11-19 16:40:16
 description: ChatGPT as a Reviewer
 tags: writing
 categories: academic
