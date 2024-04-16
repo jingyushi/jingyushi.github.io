@@ -31,6 +31,8 @@ My research interests lie in human-AI interaction and its applications across va
 
 **[Journal Reviewer]** IEEE RAL, IEEE TVCG
 
+**[Mentoring] Graduate Mentor at Summer Underdergrad Research Fellowship [(SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF) 2023 for [Hyungjun Doh](https://www.linkedin.com/in/hyungjun-doh99) and [Heesoo Kim](https://www.linkedin.com/in/heesookiim/).
+
 ##### Honors and Awards
 **[2018]** Chinese Scholarship Council (CSC) Scholarship for Distinguished Undergraduate International Exchange Program
 
