@@ -28,9 +28,12 @@ My research interests lie in human-AI interaction and its applications across va
 
 #### Academic Services
 **[Conference Reviewer]** CHI 2024, IEEE VR 2024, CHI 2024 LBW (4 Special Recognitions), CSCW 2024 (2 Special Recognitions), DIS 2024 (Special Recognition)
+
 **[Journla Reviewer]** IEEE RAL, IEEE TVCG
 
 #### Honors and Awards
 **[2018]** Chinese Scholarship Council (CSC) Scholarship for Distinguished Undergraduate International Exchange Program
+
 **[2018]** First prize of the 28th  Feng Ru Cup Competition of Academic and Technological Works (top1%), Beihang University
+
 **[2017]** Second prize of the 27th  Feng Ru Cup Competition of Academic and Technological Works, Beihang University
