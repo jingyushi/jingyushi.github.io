@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my intern at [Futurewei Technologies](https://www.futurewei.com/) under the supervision of [Dr. Xiyun Song](https://www.linkedin.com/in/xiyun-song-1395b27/), [Dr. Heather Yu](https://www.linkedin.com/in/heather-yu-8866675/), and [Dr. Liang Peng](https://www.linkedin.com/in/liang-peng-7635943/). I am working on 3D NeRF Editing with Diffusion Prior.
+I started my internship at [Futurewei Technologies](https://www.futurewei.com/) under the supervision of [Dr. Xiyun Song](https://www.linkedin.com/in/xiyun-song-1395b27/), [Dr. Heather Yu](https://www.linkedin.com/in/heather-yu-8866675/), and [Dr. Liang Peng](https://www.linkedin.com/in/liang-peng-7635943/). I am working on 3D NeRF Editing with Diffusion Prior.

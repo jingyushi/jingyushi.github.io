@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One co-authored paper accepted by UIST 24!
+One co-authored paper is accepted by UIST 24!
