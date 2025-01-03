@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My co-first authored paper "Visualizing Causality in Mixed Reality for Manual Task Learning: A Study" underwent a minor revision in TVCG!
+My co-first-authored paper "Visualizing Causality in Mixed Reality for Manual Task Learning: A Study" underwent a minor revision in TVCG!
