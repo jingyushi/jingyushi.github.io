@@ -32,7 +32,7 @@ My research interests lie in the intersection of Artificial Intelligence (AI) an
 
 ---
 
-**[Conference Reviewer]** CHI 2025 (2 Special Recognition), 2024, IEEE VR 2025, 2024, CHI 2024 LBW (4 Special Recognitions), CSCW 2024 (2 Special Recognitions), DIS 2024 (Special Recognition)
+**[Conference Reviewer]** CHI 2025, 2024, IEEE VR 2025, 2024, CHI 2024 LBW, CSCW 2024, DIS 2024, proudly, all with multiple special recognitions and commendations.
 
 **[Journal Reviewer]** IEEE RAL, IEEE TVCG
 
