@@ -21,9 +21,9 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. candidate (4-th year) in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
+I am a Ph.D. candidate (5-th year) in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
 
-My research interests lie in the intersection of Artificial Intelligence (AI) and Human-Computer-Interaction (HCI). Specifically, I study applied machine learning/deep learning algorithms and their applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. I build  Currently, I am studying the deployment and interaction design of generative AI in AR applications.
+My research interests lie in the intersection of Artificial Intelligence (AI) and Human-Computer-Interaction (HCI). Specifically, I study applied machine learning/deep learning algorithms and their applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. I enjoy building interactive systems that utilize the state-of-the-art AI algorithms, as much as I enjoy designing user-friendly interactions to deploy the AI in real world applications. Currently, I am studying the deployment and interaction design of generative AI in AR applications.
 
 
 [**Google Scholar**](https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en) / [**Resume**](/assets/pdf/resume2025_0313.pdf) / [**LinkedIn**](https://www.linkedin.com/in/jingyushi97/)
