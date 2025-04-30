@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I defend my PhD in the summer and join Meta Reality Lab as a Research Scientist, starting August 2025.
+I will defend my PhD in the summer and join Meta Reality Lab as a Research Scientist, starting August 2025.
