@@ -21,7 +21,9 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. candidate (5-th year) in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
+I am an incoming Research Scientist at Meta Reality Labs with the XR Codec Interaction and Avatar (XRCIA) Action Decoder team, starting from August 2025.
+
+Currently, I am a Ph.D. candidate (5-th year) in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
 
 My research interests lie in the intersection of Artificial Intelligence (AI) and Human-Computer-Interaction (HCI). Specifically, I study applied machine learning/deep learning algorithms and their applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. I enjoy building interactive systems that utilize the state-of-the-art AI algorithms, as much as I enjoy designing user-friendly interactions to deploy the AI in real world applications. Currently, I am studying the deployment and interaction design of generative AI in AR applications.
 
@@ -32,7 +34,7 @@ My research interests lie in the intersection of Artificial Intelligence (AI) an
 
 ---
 
-**[Conference Reviewer]** ICCV 2025, CHI 2025, 2024, IEEE VR 2025, 2024, CHI 2024 LBW, CSCW 2024, DIS 2024, proudly, all with multiple special recognitions and commendations.
+**[Conference Reviewer]** ICCV 2025, CHI 2024-2025, UIST 2024-2025, IEEE VR 2024-2025, CHI LBW 2024, CSCW 2024, DIS 2024, proudly, all with multiple special recognitions and commendations.
 
 **[Journal Reviewer]** IEEE RAL, IEEE TVCG, ACM TOCHI
 
