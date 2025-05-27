@@ -28,7 +28,7 @@ Currently, I am a Ph.D. candidate (5-th year) in Electrical and Computer Enginee
 My research interests lie in the intersection of Artificial Intelligence (AI) and Human-Computer-Interaction (HCI). Specifically, I study applied machine learning/deep learning algorithms and their applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. I enjoy building interactive systems that utilize the state-of-the-art AI algorithms, as much as I enjoy designing user-friendly interactions to deploy the AI in real world applications. Currently, I am studying the deployment and interaction design of generative AI in AR applications.
 
 
-[**Google Scholar**](https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en) / [**Resume**](/assets/pdf/resume2025_0327.pdf) / [**LinkedIn**](https://www.linkedin.com/in/jingyushi97/)
+[**Google Scholar**](https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en) / [**Resume**](/assets/pdf/resume2025_0527.pdf) / [**LinkedIn**](https://www.linkedin.com/in/jingyushi97/)
 
 ##### Academic Services
 
