@@ -1,0 +1,18 @@
+---
+layout: post
+title: Fighting the Imposter Syndrome
+date: 2025-06-15 16:40:16
+description: Fighting the Imposter Syndrome
+tags: writing
+categories: personal
+---
+
+Impostor syndrome, also known as the imposter phenomenon, is a psychological pattern where individuals experience persistent self-doubt and the inability to believe their successes are deserved. Despite evidence of their competence and accomplishments, they may feel like frauds and fear being "found out".
+
+For me, it all started when I began my journey of pursuing my PhD. Whenever I speak to my friend or tell a new folk that I am doing my PhD, they will almost greet me with their immediate praise like 'who you must be very smart' or 'you must know a lot'. In the very beginning, it was motivating and rewarding. Back then (probably in the first one or two years of my PhD), I thought it was true. I thought I was smart and knew a lot. But being in the community of all these great minds and peers for a couple of years, I kind of lost the ability to take the credit for myself.
+
+I might have prepared myself well for this imposter syndrome, with which I never feel I am good enough to take all the credits people give me. I did my undergrad in Beihang University, which is one block away from Tsinghua University, the best university in China. We had a saying (or my own theory) that no matter how good I was at whatever subject, there would always be somebody in Tsinghua who was better than me at that subject and any other subject possible. I must say that this might sound like a loser mindset, but it did prepare me well and humble me enough to not get flattered too much during my PhD.
+
+I appreciated myself for acknowledging others' intelligence. A PhD or doing PhD does not mean that I am smart. It is merely a career. I fought the stereotype people have towards PhD. It can easily get people (PhDs) too flattered and thus too ignorant and cocky. But the tricky part is that humbling myself can also lead to the downfall of my self recognition. In the past two years, I kept asking myself questions like 'what am I really good at?', 'What can I achieve?', or 'Am I really doing anything with my life?', because I looked up to the folks who were so successful with their academic journeys and folks who were making every right decisions in their careers. They wrote better codes, their designed better algorithms, their made more money, they published better papers, and they lived a better life. At some point, I was so humbled that I started questioning the point of my life, why I was doing whatever I was doing. While other folks praising me for being good at what I did, I almost instinctly denied their acknowledgement in my mind and labelled myself as lucky or pretentious or whatever excuses for the slightest achievement I had.
+
+This is definitely a dangerous mindset, with which I no longer reward myself for achieving goals. But the decision I made is to stay humble. I came to realize that even folks who seemed ahead of me (academically or personally or physically or anyhow) also suffered from their own imposter syndrome because there are always somebody to look up to and to envy. Maybe they are the imposters they think they are. Maybe I am the imposter I think I am. I would rather stay humbled and push myself to those who I look up to than be cocky. If I humble myself, no one can humble me. Maybe there is no fighting the imposter syndrome. There is merely me feeling the need to be better. But truth be told, getting a PhD does not mean that someone is smart or knowledgable. I hate feeling superior just because a PhD title or even simply doing PhD, not to mention how I feel about folks who do.
