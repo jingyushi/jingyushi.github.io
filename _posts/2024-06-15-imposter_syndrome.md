@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fighting the Imposter Syndrome
-date: 2025-06-15 16:40:16
+date: 2024-06-15 16:40:16
 description: Fighting the Imposter Syndrome
 tags: writing
 categories: personal
