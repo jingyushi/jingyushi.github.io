@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am an incoming Research Scientist at Meta Reality Labs with the XR Codec Interaction and Avatar (XRCIA) Action Decoder team, starting from August 2025.
+I am a Research Scientist at Meta Reality Labs in the XR Codec Interaction and Avatar (XRCIA) Action Decoder team.
 
 I earned my Ph.D. in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
 
