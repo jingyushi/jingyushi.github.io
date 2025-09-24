@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /life.html
+permalink: /life/
+nav: true
+nav_order: 1
 title: "My personal life"
 description: "My personal life"
 redirect: false
@@ -34,6 +36,7 @@ I love playing basketball! I play very causal pick-up games at LA fit and such. 
 I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
 
 ![My sax](assets/img/sax.jpg)
+![From the start](assets/video/fromthestart.mp4)
 
 ### Outdoors
 
