@@ -22,10 +22,12 @@ I started playing Apex Legends since I came to the US. I am a triple-season mast
 
 ![My banner!](assets/img/apex.png)
 
-I still plays a lot of video games! I love making friends in games.
+I still plays a lot of video games! I have hundreds game in my library. I love making friends in games.
 
 ### Basketball
 
 I love playing basketball! I play very causal pick-up games at LA fit and such. I have been playing for so many years that I don't even remember. I made a lot of friends on court!
 
-### 
+### Music
+
+I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
