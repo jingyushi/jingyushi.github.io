@@ -3,7 +3,7 @@ layout: page
 permalink: /life.html
 title: "My personal life"
 description: "My personal life"
-redirect: true
+redirect: false
 ---
 
 ### Video Games
@@ -21,6 +21,7 @@ I was invited to a semi-pro championship for Battlefield 1 in Europe! I started 
 I started playing Apex Legends since I came to the US. I am a triple-season master!
 
 ![My banner!](assets/img/apex.png)
+![My R-99, PK, Wingy, and Heirlooms!](assets/img/loot.jpg)
 
 I still plays a lot of video games! I have hundreds game in my library. I love making friends in games.
 
@@ -31,3 +32,9 @@ I love playing basketball! I play very causal pick-up games at LA fit and such. 
 ### Music
 
 I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
+
+![My sax](assets/img/sax.jpg)
+
+### Outdoors
+
+I love camping. Good thing that I moved to Washiton. There are so many national parks here.
