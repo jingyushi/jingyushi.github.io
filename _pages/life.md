@@ -36,7 +36,7 @@ I still plays a lot of video games! I have hundreds of games in my library. I lo
 
 ### Basketball
 
-I love playing basketball! I play very causal pick-up games at LA fit and college rec. I have been playing for so many years that I don't even remember. I made a lot of friends on the basketball court!
+I love playing basketball! I play very causal pick-up games at LA fit and college recs. I have been playing for so many years that I don't even remember. I made a lot of friends on the basketball court!
 
 ### Music
 
@@ -55,4 +55,4 @@ I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
 
 ### Outdoors
 
-I love camping. Good thing that I moved to Washiton. There are so many national parks here.
+I love camping. Good thing that I moved to the Washinton state. There are so many parks here.
