@@ -3,8 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle:
-nav: true
-nav_order: 1
 profile:
   align: right
   image: me2.png
