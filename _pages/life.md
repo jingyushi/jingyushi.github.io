@@ -32,7 +32,7 @@ I started playing Apex Legends since I came to the US. I am a triple-season mast
 <img src="assets/img/loot.jpg" alt="My R-99, PK, Wingy, and Heirlooms!" width="756"/>
 </p>
 
-I still plays a lot of video games! I have hundreds game in my library. I love making friends in games.
+I still plays a lot of video games! I have hundreds of games in my library. I love making friends in games.
 
 ### Basketball
 
