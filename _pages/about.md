@@ -8,10 +8,7 @@ profile:
   align: right
   image: me2.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Mechanical Engieering Building, Room 3164</p>
-    <p>585 Purdue Mall Dr.</p>
-    <p>West Lafayette, IN, 47906</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,7 +22,7 @@ I am a Research Scientist at Meta Reality Labs in the XR Codec Interaction and A
 
 I earned my Ph.D. in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
 
-My research interests lie in the intersection of Artificial Intelligence (AI) and Human-Computer-Interaction (HCI). Specifically, I study applied machine learning/deep learning algorithms and their applications across various platforms including Augmented Reality (AR), Mixed Reality (MR), Robots, etc. I enjoy building interactive systems that utilize the state-of-the-art AI algorithms, as much as I enjoy designing user-friendly interactions to deploy the AI in real world applications. Currently, I am studying the deployment and interaction design of generative AI in AR applications.
+My research interests lie in the intersection of AI and HCI. Specifically, I study applied CVML algorithms and their applications across various platforms including AR, MR, Robots, etc. I enjoy building interactive systems that utilize the state-of-the-art AI algorithms and designing user-friendly interactions to deploy the AI in real world applications.
 
 
 [**Google Scholar**](https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en) / [**Resume**](/assets/pdf/resume2025_0527.pdf) / [**LinkedIn**](https://www.linkedin.com/in/jingyushi97/)
