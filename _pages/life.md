@@ -36,7 +36,7 @@ I still plays a lot of video games! I have hundreds of games in my library. I lo
 
 ### Basketball
 
-I love playing basketball! I play very causal pick-up games at LA fit and such. I have been playing for so many years that I don't even remember. I made a lot of friends on the basketball court!
+I love playing basketball! I play very causal pick-up games at LA fit and college rec. I have been playing for so many years that I don't even remember. I made a lot of friends on the basketball court!
 
 ### Music
 
