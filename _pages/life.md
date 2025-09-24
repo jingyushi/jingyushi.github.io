@@ -12,7 +12,9 @@ redirect: false
 
 I am a die-hard video game fan. I started playing StarCraft as my first video game experience since I was five. The very first English word I learnt was **supply depot**.
 
-![A supply depot from StarCraft](assets/img/SupplyDepot_SC1_Game1.webp)
+<p align="center">
+<img src="assets/img/SupplyDepot_SC1_Game1.webp" alt="A supply depot from StarCraft" width="75"/>
+</p>
 
 I then started play League of Legends since S1 and hit 1700 ranked points in S2. My league journey, since S4, yielded to my college entrance exam. But I came back in college with much much more free time to rot in front of my PC.
 
@@ -22,8 +24,13 @@ I was invited to a semi-pro championship for Battlefield 1 in Europe! I started 
 
 I started playing Apex Legends since I came to the US. I am a triple-season master!
 
-![My banner!](assets/img/apex.png)
-![My R-99, PK, Wingy, and Heirlooms!](assets/img/loot.jpg)
+<p align="center">
+<img src="assets/img/apex.png" alt="[My banner!" width="250"/>
+</p>
+
+<p align="center">
+<img src="assets/img/loot.jpg" alt="My R-99, PK, Wingy, and Heirlooms!" width="756"/>
+</p>
 
 I still plays a lot of video games! I have hundreds game in my library. I love making friends in games.
 
@@ -35,8 +42,14 @@ I love playing basketball! I play very causal pick-up games at LA fit and such. 
 
 I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
 
-![My sax](assets/img/sax.jpg)
-![From the start](assets/video/fromthestart.mp4)
+<p align="center">
+<img src="assets/img/sax.jpg" alt="My sax" width="1008"/>
+</p>
+
+<video width="640" controls autoplay loop muted>
+  <source src="assets/video/fromthestart.mp4" type="video/mp4">
+  from the start.
+</video>
 
 ### Outdoors
 
