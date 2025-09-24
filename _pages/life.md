@@ -3,8 +3,8 @@ layout: page
 permalink: /life.html
 nav: true
 nav_order: 2
-title: "My personal life"
-description: "My personal life"
+title: "life"
+description: "life"
 redirect: false
 ---
 
