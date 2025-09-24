@@ -36,20 +36,22 @@ I still plays a lot of video games! I have hundreds game in my library. I love m
 
 ### Basketball
 
-I love playing basketball! I play very causal pick-up games at LA fit and such. I have been playing for so many years that I don't even remember. I made a lot of friends on court!
+I love playing basketball! I play very causal pick-up games at LA fit and such. I have been playing for so many years that I don't even remember. I made a lot of friends on the basketball court!
 
 ### Music
 
 I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
 
 <p align="center">
-<img src="assets/img/sax.jpg" alt="My sax" width="1008"/>
+<img src="assets/img/sax.jpg" alt="My sax" width="756"/>
 </p>
 
+<p align="center">
 <video width="640" controls autoplay loop muted>
   <source src="assets/video/fromthestart.mp4" type="video/mp4">
   from the start.
 </video>
+</p>
 
 ### Outdoors
 
