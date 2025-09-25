@@ -24,7 +24,7 @@ The more I travel and meet people, the more I realize that we are much more alik
 Instead of drowning into the voidness and meaninglessness of life anywhere on earth, I wanna show my regrets for not travelling enough, /(It will never be enough, because the world is too big and we are too small./) since it is somewhat impossible for me to travel outside of the US again until I finish my degree. But I believe I will hit the road again someday in the future.
 
 <p align="center">
-<img src="assets/img/copenhagen.JPG" width="256"/>
+<img src="../../assets/img/copenhagen.JPG" width="256"/>
 <figcaption>In Copenhagen with the Little Mermaid.</figcaption>
 </p>
 
