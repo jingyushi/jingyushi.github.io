@@ -24,43 +24,43 @@ The more I travel and meet people, the more I realize that we are much more alik
 Instead of drowning into the voidness and meaninglessness of life anywhere on earth, I wanna show my regrets for not travelling enough, /(It will never be enough, because the world is too big and we are too small./) since it is somewhat impossible for me to travel outside of the US again until I finish my degree. But I believe I will hit the road again someday in the future.
 
 <p align="center">
-<img src="../../assets/img/copenhagen.JPG" width="256"/>
+<img src="/assets/img/copenhagen.JPG" width="256"/>
 <figcaption>In Copenhagen with the Little Mermaid.</figcaption>
 </p>
 
 <p align="center">
-<img src="assets/img/interlaken.JPG" width="256"/>
+<img src="/assets/img/interlaken.JPG" width="256"/>
 <figcaption>In Interlaken waiting for my train.</figcaption>
 </p>
 
 <p align="center">
-<img src="assets/img/prague.JPG" width="256"/>
+<img src="/assets/img/prague.JPG" width="256"/>
 <figcaption>In Prague. Photo taken by a friend of mine, whom I had known since middle high, but had not met for four years.</figcaption>
-<img src="assets/img/prague2.JPG" width="256"/>
+<img src="/assets/img/prague2.JPG" width="256"/>
 <figcaption>In Prague. Photos taken by a friend of mine, whom I had known since middle high, but had not met for four years.</figcaption>
 </p>
 
 <p align="center">
-<img src="assets/img/paris.JPG" width="256"/>
+<img src="/assets/img/paris.JPG" width="256"/>
 <figcaption>In Paris. The Eiffel Tower. I went there mid-night just to avoid the crowd.</figcaption>
 </p>
 
 <p align="center">
-<img src="assets/img/rome.JPG" width="256"/>
+<img src="/assets/img/rome.JPG" width="256"/>
 <figcaption>Hungover in Rome. I woke up with vomits in the restroom. I went so blackout that I thought it was someone else but me.</figcaption>
 </p>
 
 
 <p align="center">
-<img src="assets/img/rome2.JPG" width="128"/>
+<img src="/assets/img/rome2.JPG" width="128"/>
 <figcaption>In the Colosseum.</figcaption>
-<img src="assets/img/rome3.JPG" width="128"/>
+<img src="/assets/img/rome3.JPG" width="128"/>
 <figcaption>By the Trevi Fountain.</figcaption>
-<img src="assets/img/rome4.JPG" width="128"/>
+<img src="/assets/img/rome4.JPG" width="128"/>
 <figcaption>In the Colosseum with my folks.</figcaption>
 </p>
 
 <p align="center">
-<img src="assets/img/strasbourg.JPG" width="256"/>
+<img src="/assets/img/strasbourg.JPG" width="256"/>
 <figcaption>In Strasbourg, meeting my primary school friend Max since eight or nine years. Can you imagine?</figcaption>
 </p>
