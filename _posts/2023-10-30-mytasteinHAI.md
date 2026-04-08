@@ -6,14 +6,14 @@ description: What I see and not see from the current research in human-AI intera
 tags: writing
 categories: personal
 ---
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/momo.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Momo under my chair.
-</div>
+</div> -->
 
 As a Ph.D. student who had had no experience in HCI research before, I suffered a lot when I was trying to transit my ways of thinking from an AI developer (or say a Machine Learning engineer or a Deep Learning engineer?) to an HCI researcher. My suffering majorly resulted from the fact that I did not know what was held dear in the HCI community (and that I had not formed a taste of research in general myself). Never, do I dare to announce my expertise at solving HCI problems, yet I wish to summarize some points that might contribute to anyone who are interested in both topics (AI and HCI) and my take-aways through my learning and scattered moments of Eureka.
 
