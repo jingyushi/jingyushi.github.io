@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /life.html
+page_class: life-page
 nav: true
 nav_order: 2
 title: "life"
@@ -12,10 +13,10 @@ redirect: false
 
 I am a die-hard video game fan. I started playing StarCraft as my first video game experience since I was five. The very first English word I learnt was **supply depot**.
 
-<p align="center">
-<img src="assets/img/SupplyDepot_SC1_Game1.webp" alt="A supply depot from StarCraft" width="75"/>
-<figcaption>A Supply Depot from StarCraft</figcaption>
-</p>
+<figure class="life-media life-media--small">
+  <img src="assets/img/SupplyDepot_SC1_Game1.webp" alt="A supply depot from StarCraft" width="75">
+  <figcaption>A Supply Depot from StarCraft</figcaption>
+</figure>
 
 I then started play League of Legends since S1 and hit 1700 ranked points in S2. My league journey, since S4, yielded to my college entrance exam. But I came back in college with much much more free time to rot in front of my PC.
 
@@ -25,15 +26,15 @@ I was invited to a semi-pro championship for Battlefield 1 in Europe! I started 
 
 I started playing Apex Legends since I came to the US. I am a triple-season master!
 
-<p align="center">
-<img src="assets/img/apex.png" alt="[My banner!" width="250"/>
-<figcaption>My banner!</figcaption>
-</p>
+<figure class="life-media life-media--medium">
+  <img src="assets/img/apex.png" alt="My banner!" width="250">
+  <figcaption>My banner!</figcaption>
+</figure>
 
-<p align="center">
-<img src="assets/img/loot.jpg" alt="My R-99, PK, Wingy, and Heirlooms!" width="756"/>
-<figcaption>My R-99, PK, Wingy, and Heirlooms!</figcaption>
-</p>
+<figure class="life-media life-media--wide">
+  <img src="assets/img/loot.jpg" alt="My R-99, PK, Wingy, and Heirlooms!" width="756">
+  <figcaption>My R-99, PK, Wingy, and Heirlooms!</figcaption>
+</figure>
 
 I still plays a lot of video games! I have hundreds of games in my library. I love making friends in games.
 
@@ -45,17 +46,17 @@ I love playing basketball! I play very causal pick-up games at LA fit and colleg
 
 I am a Jazz lover. I play a bit saxophone. I am learning guitar too.
 
-<p align="center">
-<img src="assets/img/sax.jpg" alt="My sax" width="756"/>
-<figcaption>My sax!</figcaption>
-</p>
+<figure class="life-media life-media--wide">
+  <img src="assets/img/sax.jpg" alt="My sax" width="756">
+  <figcaption>My sax!</figcaption>
+</figure>
 
-<p align="center">
-<video width="640" controls autoplay loop muted>
-  <source src="assets/video/fromthestart.mp4" type="video/mp4">
+<figure class="life-media life-media--wide">
+  <video width="640" controls autoplay loop muted>
+    <source src="assets/video/fromthestart.mp4" type="video/mp4">
+  </video>
   <figcaption>From the start.</figcaption>
-</video>
-</p>
+</figure>
 
 ### Outdoors
 

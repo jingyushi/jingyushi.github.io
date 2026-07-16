@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+page_class: home-page
 subtitle:
 profile:
   align: right
@@ -13,15 +14,14 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-#### About Me 
+<div class="about-copy-inner">
+  <p class="about-eyebrow">About Me</p>
 
----
+  <p class="lead">I am a Research Scientist at Meta Reality Labs Research.</p>
 
-I am a Research Scientist at Meta Reality Labs Research.
+  <p>I earned my Ph.D. in Electrical and Computer Engineering from <a href="http://www.purdue.edu">Purdue University</a>, under the supervision of <a href="https://engineering.purdue.edu/~ramani/wordpress/">Prof. Karthik Ramani</a>. I obtained my M.S. degree in ECE in <a href="http://www.gatech.edu">Georgia Institute of Technology</a>, working with <a href="https://ece.gatech.edu/directory/patricio-antonio-vela">Prof. Patricio Vela</a>. Prior to that, I studied Instrument Science and Technology in <a href="https://ev.buaa.edu.cn/index.htm">Beihang University</a> and became a B.Eng.</p>
 
-I earned my Ph.D. in Electrical and Computer Engineering from [Purdue University](http://www.purdue.edu), under the supervision of [Prof. Karthik Ramani](https://engineering.purdue.edu/~ramani/wordpress/). I obtained my M.S. degree in ECE in [Georgia Institute of Technology](http://www.gatech.edu), working with [Prof. Patricio Vela](https://ece.gatech.edu/directory/patricio-antonio-vela). Prior to that, I studied Instrument Science and Technology in [Beihang University](https://ev.buaa.edu.cn/index.htm) and became a B.Eng.
+  <p>My research interests lie in the intersection of AI and HCI. I work on multi-modal language models and embodied intelligence, as well as the interaction design of their applications.</p>
 
-My research interests lie in the intersection of AI and HCI. I work on multi-modal language models and embodied intelligence, as well as the interaction design of their applications.
-
-
-[**Google Scholar**](https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en) / [**Resume**](/assets/pdf/resume2025_0527.pdf) / [**LinkedIn**](https://www.linkedin.com/in/jingyushi97/)
+  <p class="about-links"><a href="https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en"><strong>Google Scholar</strong></a> <a href="/assets/pdf/resume2025_0527.pdf"><strong>Resume</strong></a> <a href="https://www.linkedin.com/in/jingyushi97/"><strong>LinkedIn</strong></a></p>
+</div>
