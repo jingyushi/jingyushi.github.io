@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 <div class="about-copy-inner">
-  <p class="about-eyebrow">About Me</p>
+  <p class="about-eyebrow">About</p>
 
   <p class="lead">I am a Research Scientist at Meta Reality Labs Research.</p>
 
@@ -23,5 +23,5 @@ social: false # includes social icons at the bottom of the page
 
   <p>My research interests lie in the intersection of AI and HCI. I work on multi-modal language models and embodied intelligence, as well as the interaction design of their applications.</p>
 
-  <p class="about-links"><a href="https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en"><strong>Google Scholar</strong></a> <a href="/assets/pdf/resume2025_0527.pdf"><strong>Resume</strong></a> <a href="https://www.linkedin.com/in/jingyushi97/"><strong>LinkedIn</strong></a></p>
+  <p class="about-links"><a href="https://scholar.google.com/citations?user=zbrLQdMAAAAJ&hl=en">Google Scholar</a> / <a href="/assets/pdf/resume2025_0527.pdf">Resume</a> / <a href="https://www.linkedin.com/in/jingyushi97/">LinkedIn</a></p>
 </div>
